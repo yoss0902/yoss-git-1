@@ -1,2 +1,5 @@
 # yoss-git-1
- lets try git
+ 
+changing the file
+ADDING ANOTHER
+making change after add
